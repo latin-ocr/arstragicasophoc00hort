@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arstragicasophoc00hort_0005.png"; bbox 0 0 2013 3328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 245 753 1227 908">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 245 753 1227 908">
+     <span class='ocr_line' id='line_1_1' title="bbox 245 753 1227 908; baseline -0.073 3"><span class='ocrx_word' id='word_1_1' title='bbox 245 753 481 908; x_wconf 37' lang='grc' dir='ltr'><em>ὦ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 522 761 966 890; x_wconf 41' lang='grc' dir='ltr'>4ζὸῖῖῗὼ</span> <span class='ocrx_word' id='word_1_3' title='bbox 984 823 1021 856; x_wconf 68' lang='lat'><em>5</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1039 784 1178 867; x_wconf 42' lang='lat' dir='ltr'>A&amp;</span> <span class='ocrx_word' id='word_1_5' title='bbox 1197 818 1227 856; x_wconf 65' lang='lat' dir='ltr'><strong>e</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 439 1409 1329 1646">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 439 1409 1329 1646">
+     <span class='ocr_line' id='line_1_2' title="bbox 439 1409 1329 1467; baseline -0.021 1"><span class='ocrx_word' id='word_1_6' title='bbox 439 1425 561 1467; x_wconf 75' lang='lat' dir='ltr'>ARS</span> <span class='ocrx_word' id='word_1_7' title='bbox 606 1418 896 1464; x_wconf 85' lang='lat' dir='ltr'>TRAGICA</span> <span class='ocrx_word' id='word_1_8' title='bbox 941 1409 1329 1458; x_wconf 86' lang='lat' dir='ltr'>SOPHOCLEA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 535 1501 1235 1558; baseline -0.024 0"><span class='ocrx_word' id='word_1_9' title='bbox 535 1514 672 1558; x_wconf 89' lang='lat' dir='ltr'>CUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 718 1501 1235 1554; x_wconf 81' lang='lat' dir='ltr'><strong>SHAKSPERIANA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 679 1595 1084 1646; baseline -0.027 0"><span class='ocrx_word' id='word_1_11' title='bbox 679 1595 1084 1646; x_wconf 83' lang='lat' dir='ltr'><strong>COMPARATA</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
